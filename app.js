@@ -20,4 +20,13 @@ console.log(a);
     //.variable names contain only letters (a-zA-Z) digits(0-9),_,$
     //.starts with letters and _ only.
     //case sensitive.
-    // use calmel case (firstLastName)
+    // use calmel case (firstLastName).
+
+// externaljs
+
+    // document.getElementById('btn').onclick=function(){
+    //  alert('product added to cart')
+    // };
+  function externalgreet(){
+        alert('hello external js');
+    }
