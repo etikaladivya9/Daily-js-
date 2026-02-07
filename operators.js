@@ -4,6 +4,8 @@
 //a.arthmetic
 //b.assignment
 //c.comparsion /relational oparator
+//d.logical operators
+//e.bitwise operators ^,&,~,a&b
 //2.unary  operators
 //a.increment
 //b.decrement
@@ -44,4 +46,25 @@ console.log(X++);
 console.log(--x)
 console.log(x--)
 
+//logical operators(&&,||,!)
 
+console.log(true&&true)
+  
+
+console.log('s'+2)
+console.log('2'+2)
+console.log('s'*2)
+console.log('2'-2)
+console.log('s'-2)
+
+
+
+
+let a='10'
+b=Number(a)
+c=a
+console.log(typeof(c))
+console.log(typeof(parseInt('10')))
+console.log(typeof(parseInt('10.6')))
+console.log(typeof(String(10)))
+console.log(Boolean('+'))
