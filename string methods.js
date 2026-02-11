@@ -98,5 +98,6 @@ fruits=[{name:'apple',price:25},{name:'banana',price:22},{name:'mango',price:22}
     <div id='data'>
          <h5>${fruits[i].name}</h5>
          <p>${fruits[i].price}</p>
+         
     `
 }  
